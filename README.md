@@ -1,8 +1,10 @@
-# BTS_micro_pro_c
+# BTS_32u4_feather
 
 ## ABOUT
 
-MCU board, mostly with pinout of Arduino Nano Pro, shows up as Leonardo, has USB-C connector.
+MCU board, mostly with pinout of an Adafruit Feature, shows up as Leonardo, has USB-C connector.
+
+Currently not planning to support the battery portion of the standard.
 
 
 ## LICENSE
